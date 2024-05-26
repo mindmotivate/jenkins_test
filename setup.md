@@ -194,29 +194,3 @@ Number of Executors
 6. Click "Apply" and "Save".
 7. Click "Build Now".
 
-## Additional Resources
-- Jenkins Getting Started: [Jenkins Documentation](https://www.jenkins.io/doc/book/getting-started/)
-- Example Jenkins URL: [Jenkins Server](https://34.165.2.253/)
-- Presentation: [Setup Guide](https://docs.google.com/presentation/d/1WNKrapKzDmDvUDSC0lBQmsOxtvMtsTDvv0beb1Aou5w/edit#slide=id.g2df1b485b84_0_115)
-
-
-
-![alt text](image.png)
-
-![alt text](image-1.png)
-
-![alt text](image-2.png)
-
-![alt text](image-3.png)
-
-![alt text](image-4.png)
-
-![alt text](image-5.png)
-
-![alt text](image-6.png)
-
-![alt text](image-7.png)
-
-![alt text](image-8.png)
-
-![alt text](image-9.png)
